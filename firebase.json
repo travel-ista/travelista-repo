@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "dist/travelbuddy/browser",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}

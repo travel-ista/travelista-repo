@@ -1,0 +1,200 @@
+header {
+    background: #333;
+    color: #fffbfb;
+    padding: 10px 0;
+  }
+  // background-image: url('C:/Users/CLIENT/Desktop/JDT PROJECT/travelbuddy/src/assets/bg-hero.jpg');
+  
+  header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+  }
+  
+  header .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  header nav ul {
+    list-style: none;
+    display: flex;
+  }
+  
+  header nav ul li {
+    margin-left: 20px;
+  }
+  
+  header nav ul li a {
+    color: #fff9f9;
+    text-decoration: none;
+  }
+  .hero {
+  background: url no-repeat center center/cover;
+  color: #000000;
+  text-align: center;
+}
+
+.hero h1 {
+  font-size: 36px;
+}
+
+.hero p {
+  font-size: 18px;
+  margin: 20px 0;
+}
+
+
+.hero .btn {
+  background: #5f5959;
+  color: #f7f5f5;
+  text-decoration: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+.body {
+  background-color: black;
+}
+.example-container {
+  background-position: none;
+  padding: auto;
+  background-repeat: no-repeat; 
+  height: 100vb; 
+}
+.destinations {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .destination-cards {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .card {
+    flex: 1;
+    max-width: 300px;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .card h3 {
+    margin: 10px 0;
+  }
+  .tours {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .tour-cards {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+  }
+  
+  .card {
+    flex: 1;
+    max-width: 300px;
+  }
+  
+  .card img {
+    width: 100%;
+    border-radius: 5px;
+  }
+  
+  .card h3 {
+    margin: 10px 0;
+  }
+  .travel-tips {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .travel-tips ul {
+    list-style: none;
+  }
+  
+  .travel-tips li {
+    margin: 10px 0;
+  }
+  
+  .travel-tips a {
+    text-decoration: none;
+    color: #ff6600;
+  }
+  .testimonials {
+    padding: 40px 20px;
+    text-align: center;
+  }
+  
+  .testimonial-carousel blockquote {
+    margin: 20px 0;
+    padding: 20px;
+    background: #fcfcfc;
+    border-radius: 5px;
+  }
+  footer {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  footer .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .quick-links {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+  }
+  
+  .quick-links li {
+    margin: 0;
+  }
+  
+  .quick-links li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .social-media {
+    margin: 20px 0;
+  }
+  
+  .social-media a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+  }
+  
+  .newsletter {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .newsletter input {
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .newsletter button {
+    background: #ff6600;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+    
+  
